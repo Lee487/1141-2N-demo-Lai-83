@@ -1,0 +1,16 @@
+git config --global user.email "213410383@o365.tku.edu.tw"
+git config --global user.name "Lee487"
+
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2025-09-18"
+
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+
+
+
+
+
+Project URL:
+https://nlfbqtmvspqpdzkuseeu.supabase.co
+
+Project API KEYS:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5sZmJxdG12c3BxcGR6a3VzZWV1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU0OTE4NDEsImV4cCI6MjA2MTA2Nzg0MX0.p3AXUzBIP4wVX8eL6boFgwuyZjjsVRC4tu8y5GgLW0A
