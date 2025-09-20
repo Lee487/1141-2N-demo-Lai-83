@@ -15,7 +15,7 @@ cb6d6c6 Lee487  Wed Sep 17 20:19:02 2025 +0800  W01-P1: Use creatae-react-app to
 ```
 
 
-Video: W01-P2: Use vite to create a new React app
+### : W01-P2: Use vite to create a new React app
  
 #### => show how the index.html page being rendered
  
