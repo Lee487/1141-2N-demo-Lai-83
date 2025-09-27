@@ -1,6 +1,6 @@
 [Github URL](https://github.com/Lee487/1141-2N-demo-Lai-83.git)
 
-### W02-P1: App_xx with 6 books
+### W02-P1: App_83 with 6 books
  
 #### => Chrome demo
  
