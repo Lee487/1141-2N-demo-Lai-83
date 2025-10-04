@@ -1,30 +1,35 @@
 [Github URL](https://github.com/Lee487/1141-2N-demo-Lai-83.git)
 
-### W02-P1: App_83 with 6 books
+### W03-P1: Create router in App_xx.jsx
  
-#### => Chrome demo
+#### => route / for HomePage_xx
  
-![](w02-p1-1.png)
+![](w03-p1-1.png)
  
-#### => code demo
+#### => route /static_xx for BlogStaticPage_xx
  
-![](w02-p1-2.png)
+![](w03-p1-1.png)
  
-![](w02-p1-3.png)
- 
-```
-ae39854 Lee487  Sat Sep 27 09:40:01 2025 +0800  W02-P1: App_83 with 6 books
 ```
 
-
-### W02-P2: refine code in W01-P1
+```
+### W03-P2: Implement route /static_xx for BlogStaticPage_xx
  
-#### => Chrome demo use React DevTools
- 
-![](w02-p2.png)
+![](w03-p2.png)
  
 ```
-72cd171 Lee487  Sat Sep 27 10:27:03 2025 +0800  W02-P2: refine code in W01-P1
+
+```
+### W03-P3: Implement route /localjson_xx by showing blogs from local json
+ 
+#### => Chrome demo using React DevTools
+ 
+![](w03-p3-1.png)
+ 
+#### => code for BlogLocalJson_xx
+ 
+![](w03-p3-2.png)
+ 
 ```
 
 
