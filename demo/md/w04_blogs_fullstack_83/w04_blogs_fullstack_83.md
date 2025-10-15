@@ -5,7 +5,7 @@
 ![](w04-p1.png)
  
 ```
-
+f876683 Lee487  Wed Oct 15 20:11:59 2025 +0800  W04-P1: Create a express Web server to show your info
 ```
 
 ### W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data
