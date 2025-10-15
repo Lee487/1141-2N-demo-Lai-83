@@ -23,7 +23,7 @@ f876683 Lee487  Wed Oct 15 20:11:59 2025 +0800  W04-P1: Create a express Web ser
 ![](w04-p2-3.png)
 
 ```
-
+7735344 Lee487  Wed Oct 15 20:14:37 2025 +0800  W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data
 ```
 ### W04-P3: from client side to get json data from Node
  
