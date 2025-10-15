@@ -31,5 +31,6 @@ ab5af10 Lee487  Sat Oct 4 20:11:16 2025 +0800    W03-P2: Implement route /static
 ![](w03-p3-2.png)
  
 ```
-
+7e7a5e7 Lee487  Sat Oct 4 20:14:09 2025 +0800   W03-P3: Implement route /localjson_xx by showing blogs from local json
+```
 
