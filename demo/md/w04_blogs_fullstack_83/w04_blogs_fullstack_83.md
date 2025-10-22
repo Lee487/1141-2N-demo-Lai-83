@@ -36,6 +36,6 @@ f876683 Lee487  Wed Oct 15 20:11:59 2025 +0800  W04-P1: Create a express Web ser
 ![](w04-p3-2.png)
  
 ```
-
+921dbe5 Lee487  Wed Oct 15 20:15:22 2025 +0800  W04-P3: from client side to get json data from Node
 ```
 
